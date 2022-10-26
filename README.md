@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marco Túlio Paiva
+## Olá, eu sou o Marco Túlio Paiva!
 ###
 <div>
 
